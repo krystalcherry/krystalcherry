@@ -4,11 +4,11 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/krystalcherry/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/krystalcherry/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/krystalcherry/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/krystalcherry/post-install-config) (coming soon)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/krystalcherry/ticket-lifecycle) (coming soon)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/krystalcherry/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/krystalcherry/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/krystalcherry/configure-ad) (coming soon)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/krystalcherry/azure-network-protocols) (coming soon)
 
 <h2> 📈 Data Projects:</h2>
 
