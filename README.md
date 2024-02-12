@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/krystalcherry/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/krystalcherry/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/krystalcherry/configure-ad) (coming soon)
+  - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/krystalcherry/configure-ad) (coming soon)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/krystalcherry/azure-network-protocols) (coming soon)
 
 <h2> 📈 Data Projects:</h2>
