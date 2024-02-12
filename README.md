@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/krystalcherry/post-install-config)
 - <b>Microsoft Azure</b>
   - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/krystalcherry/configure-ad) (coming soon)
-  - [Network Security Groups (NSGs) and Inspecting Network Traffic](https://github.com/krystalcherry/azure-network-protocols) (coming soon)
+  - [Network Security Groups (NSGs) and Inspecting Network Traffic](https://github.com/krystalcherry/azure-network-protocols)
 
 <h2> 📈 Data Projects:</h2>
 
