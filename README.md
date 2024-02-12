@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/krystalcherry/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/krystalcherry/post-install-config) (coming soon)
+  - [osTicket: Post-Installation Configuration](https://github.com/krystalcherry/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/krystalcherry/ticket-lifecycle) (coming soon)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/krystalcherry/configure-ad) (coming soon)
