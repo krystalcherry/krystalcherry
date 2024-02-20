@@ -1,4 +1,4 @@
-<h1>Hi, I'm Krystal 🍒, an <a href="https://www.linkedin.com/in/krystal-cherry-72a20b36/">IT Professional!</a></h1>
+<h1>Hi, I'm Krystal 🍒, an <a href="https://www.linkedin.com/in/krystal-cherry-72a20b36/">IT and Data Professional!</a></h1>
 
 <h2> 👩🏽‍💻 Information Technology Projects:</h2>
 
