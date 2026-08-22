@@ -1,5 +1,9 @@
 <h1>Hi, I'm Krystal 🍒, an <a href="https://www.linkedin.com/in/krystal-cherry-72a20b36/">IT and CyberSecurity Professional!</a></h1>
 
+<h2>About Me</h2>
+<p>I’m transitioning into cybersecurity and building my skills through hands-on labs and projects in networking, security, and troubleshooting. I enjoy solving problems and figuring out the “why” behind what’s happening—not just following a checklist to fix it. I’m using projects, labs, and real-world scenarios to develop the practical skills needed to help organizations identify problems, reduce risk, and keep their systems secure.
+</p>
+
 <h2> 👩🏽‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
