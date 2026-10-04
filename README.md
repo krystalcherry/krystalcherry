@@ -1,26 +1,103 @@
-<h1>Hi, I'm Krystal 🍒, an <a href="https://www.linkedin.com/in/krystal-cherry-72a20b36/">IT and CyberSecurity Professional!</a></h1>
+# 👩🏾‍💻 Hi, I'm Krystal 🍒
 
-<h2>About Me</h2>
-<p>I’m transitioning into cybersecurity and building my skills through hands-on labs and projects in networking, security, and troubleshooting. I enjoy solving problems and figuring out the “why” behind what’s happening—not just following a checklist to fix it. I’m using projects, labs, and real-world scenarios to develop the practical skills needed to help organizations identify problems, reduce risk, and keep their systems secure.
-</p>
+### Application & Software Support Professional
 
-<h2> 👩🏽‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/krystalcherry/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/krystalcherry/post-install-config)
-- <b>Microsoft Azure x Wireshark</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Traffic](https://github.com/krystalcherry/azure-network-protocols)
+## 👩🏾‍💻 About Me
 
-<h2> 📈 Data Projects:</h2>
+I'm an Application and Software Support professional with experience supporting business processes, enterprise applications, and high-volume operations.
 
-[<img align="left" alt="krystalcherry | Datacamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/datacamp.svg" />][datacamp]
+I enjoy troubleshooting problems, finding patterns, and figuring out the "why" behind an issue—not just following a checklist to fix it. My background in procurement, customer support, and enterprise applications gives me a strong understanding of both the technology and the business processes behind it.
 
-[datacamp]: https://www.datacamp.com/portfolio/aquapaine83
-<br>
-<h2>🤳🏽Connect with me:</h2>
+I'm currently building hands-on projects focused on application support, troubleshooting, root-cause analysis, documentation, and business systems.
 
-[<img align="left" alt="krystalcherry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/krystal-cherry-72a20b36
+## 🛠️ What I Work With
+
+**Application & Business Systems**
+
+* SAP
+* e-automate
+* ERP workflows
+* Order-to-cash processes
+* Account & approval workflows
+* Data verification and transactional accuracy
+
+**Support & Troubleshooting**
+
+* Application troubleshooting
+* Issue investigation
+* Root-cause analysis
+* Error pattern identification
+* Data validation
+* Incident documentation
+* SOPs and troubleshooting procedures
+
+**Professional Tools & Platforms**
+
+* Microsoft 365
+* Microsoft Teams
+* Webex
+* SharePoint
+
+**Hands-On Labs & Self-Directed Learning**
+
+* Jira
+* Zendesk
+* osTicket
+* Wireshark
+* Cisco Packet Tracer
+
+**Currently Building**
+
+* Application Support
+* Business Systems Support
+* SaaS & Software Support
+* Troubleshooting & Root-Cause Analysis
+
+
+## 🔧 Featured Projects
+
+### 📦 Order-to-Cash Application Support Case Study
+
+**Application Support | Incident Investigation | Root-Cause Analysis | Troubleshooting**
+
+A fictional application-support case study demonstrating how to investigate order-processing failures, identify recurring error patterns, determine root causes, resolve incidents, and document repeatable troubleshooting procedures.
+
+**Skills demonstrated:**
+
+* Incident investigation
+* Root-cause analysis
+* Data validation
+* Error pattern recognition
+* Business-process troubleshooting
+* Troubleshooting documentation
+* Knowledge-base development
+
+➡️ **[View the Project](https://github.com/krystalcherry/order-to-cash-application-support)**
+
+### 🎫 osTicket Help Desk Lab
+
+**IT Support | Ticketing | Troubleshooting | Documentation**
+
+Hands-on self-directed lab exploring help desk ticketing workflows, issue documentation, and support processes using osTicket.
+
+➡️ **[View the Project](https://github.com/krystalcherry/osticket-prereqs)**
+
+### 🌐 Networking & Security Labs
+
+**Networking | Network Analysis | Security Fundamentals**
+
+Hands-on labs exploring networking and security concepts using tools such as Cisco Packet Tracer and Wireshark.
+
+➡️ **[View the Project](https://github.com/krystalcherry/azure-network-protocols)**
+
+
+## 🤝 Connect With Me
+
+I'm currently exploring opportunities in **Application Support, Software Support, SaaS Support, and Business Systems Support**.
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/krystalcherry-9to5/)
+* 💻 [GitHub](https://github.com/krystalcherry)
+
 
