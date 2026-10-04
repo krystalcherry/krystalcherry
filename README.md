@@ -9,7 +9,7 @@ I'm an Application and Software Support professional with experience supporting 
 
 I enjoy troubleshooting problems, finding patterns, and figuring out the "why" behind an issue—not just following a checklist to fix it. My background in procurement, customer support, and enterprise applications gives me a strong understanding of both the technology and the business processes behind it.
 
-I'm currently building hands-on projects focused on application support, troubleshooting, root-cause analysis, documentation, and business systems.
+I build hands-on projects focused on application support, troubleshooting, root-cause analysis, documentation, and business systems.
 
 
 ## 🛠️ What I Work With
